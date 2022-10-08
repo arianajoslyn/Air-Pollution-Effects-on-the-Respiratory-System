@@ -80,3 +80,12 @@ CONSTRAINT fk_CO_state
 	  REFERENCES"States"("State")		
 )
 ;
+
+CREATE TABLE Pop_By_Year 
+( "City_Town" varchar(150),
+	"State" varchar(150),
+	"Year" int,
+	"Population" int,
+CONSTRAINT fk_Pop_yr_state
+      FOREIGN KEY("State") 
+	  REFERENCES "States"("State"));
