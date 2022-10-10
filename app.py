@@ -9,5 +9,11 @@ app= Flask(__name__)
 @app.route('/')
 def home():
     return render_template('index.html')
+#don't forget your template for flask must be in a folder called 'templates'
 #open terminal in visual studio type 'flask run' click the website link
 #webpage should open index.html file
+@app.route('/Charts')
+def charts():return render_template('Charts.html')
+
+@app.route('/Heatmaps')
+def heatmap():return render_template('heatmap.html')
