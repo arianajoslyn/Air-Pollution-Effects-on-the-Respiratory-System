@@ -21,9 +21,26 @@
  <script src="AJAX WEBSITE"></script>
  -->
  <!-- insert plotly-->
- <!--
- <script src="PLOTLY WEB LOCATION"></script>
- -->
+ 
+ <script src="plotly-2.14.0.min.js"></script>
+ <script src="https://d3js.org/d3.v7.min.js"></script>
+ 
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/1.0.21/jquery.csv.js" integrity="sha512-Y8iWYJDo6HiTo5xtml1g4QqHtl/PO1w+dmUpQfQSOTqKNsMhExfyPN2ncNAe9JuJUSKzwK/b6oaNPop4MXzkwg==" crossorigin="anonymous"></script>
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/1.0.21/jquery.csv.js" integrity="sha512-2ypsPur7qcA+2JjmmIJR1c4GWFqTLIe1naXXplraMg0aWyTOyAMpOk+QL+ULpzwrO/GdwA3qB3FhVyyiR8gdhw==" crossorigin="anonymous"></script>
+ <div id="tester" style="width:600px;height:250px;"></div>   
+ <script>
+
+	TESTER = document.getElementById('tester');
+
+	Plotly.newPlot( TESTER, [{
+
+	x: [1, 2, 3, 4, 5],
+
+	y: [1, 2, 4, 8, 16] }], {
+
+	margin: { t: 0 } } );
+
+</script>
 </head>
 <body>
 <!-- Bootstrap core JavaScript-->
