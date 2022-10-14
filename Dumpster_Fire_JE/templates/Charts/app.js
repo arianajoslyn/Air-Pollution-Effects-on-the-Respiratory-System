@@ -2,13 +2,13 @@
 
 
   
-function buildMetadata(sample) {
-  d3.json("samples.json").then((data) => {
+function buildMetadata(AQI) {
+  d3.json("AQI.json").then((data) => {
     var metadata= data.metadata;
-    var resultsarray= metadata.filter(sampleobject => 
-      sampleobject.id == sample);
+    var resultsarray= metadata.filter(AQI => 
+      AQI.aqi_index == AQI);
     var result= resultsarray[0]
-    var panel = d3.select("#sample-metadata");
+    var panel = d3.select("#AQI-metadata");
     panel.html("");
     Object.entries(result).forEach(([key, value]) => {
       panel.append("h6").text(`${key}: ${value}`);
@@ -23,18 +23,18 @@ function buildMetadata(sample) {
 
 // build chart function
 
-function buildCharts(sample) {
+function buildCharts(AQI) {
 
 // Use d3 to bring in the samples.json then loop through each row, appending to the variable `result`
-d3.json("samples.json").then((data) => {
-  var samples= data.samples;
-  var resultsarray= samples.filter(sampleobject => 
-      sampleobject.id == sample);
+d3.json("AQI.json").then((data) => {
+  var samples= data.AQI;
+  var resultsarray= AQI.filter(AQI => 
+  AQI.aqi_index == AQI);
   var result= resultsarray[0]
 
-  var ids = result.otu_ids;
-  var labels = result.otu_labels;
-  var values = result.sample_values;
+  var ids = result.aqi_index;
+  var labels = result.aqi_index;
+  var values = result.aqi_index;
 
 //------------------------------------------------------//
 //------------------------------------------------------//

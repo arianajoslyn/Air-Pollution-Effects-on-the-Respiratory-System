@@ -44,10 +44,10 @@ var map = L.map("map", {
 // Adding our 'graymap' tile layer to the map.
 graymap.addTo(map);
 
-// We create the layers for our two different sets of data, earthquakes and
-// tectonicplates.
-var tectonicplates = new L.LayerGroup();
-var earthquakes = new L.LayerGroup();
+// We create the layers for our two different sets of data, population and
+// air quality (AQI).
+var population = new L.LayerGroup();
+var AQI = new L.LayerGroup();
 
 // Defining an object that contains all of our different map choices. Only one
 // of these maps will be visible at a time!
@@ -60,8 +60,8 @@ var baseMaps = {
 // We define an object that contains all of our overlays. Any combination of
 // these overlays may be visible at the same time!
 var overlays = {
-  "Tectonic Plates": tectonicplates,
-  Earthquakes: earthquakes
+  "Population": population,
+  "AQI": AQI
 };
 
 // Then we add a control to the map that will allow the user to change which
@@ -72,7 +72,7 @@ L
   .addTo(map);
 
 // Our AJAX call retrieves our earthquake geoJSON data.
-d3.json("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson").then(function(data) {
+d3.json("AQI.json").then(function(data) {
 
   // This function returns the style data for each of the earthquakes we plot on
   // the map. We pass the magnitude of the earthquake into two separate functions
