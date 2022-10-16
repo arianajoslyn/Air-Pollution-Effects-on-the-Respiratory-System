@@ -25,3 +25,4 @@ Created Interactive Plotly and Leaflet visualizations for end users to explore t
 
 ## Conclusion
 There was not enough time to correlate the death counts with the locations having increased counts of poor air quality- no conclusions were made.
+check it out
