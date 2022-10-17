@@ -8,9 +8,9 @@ Studies show that air pollution increases the chances of respiratory illnesses a
 
 ## Data
 Data was obtained from several locations:
-* CDC: [CDC Link!](https://data.cdc.gov/NCHS/Monthly-Provisional-Counts-of-Deaths-by-Select-Cau/9dzk-mvmi/data) 
-* OpenWeath: [OpenWeather Link!](https://openweathermap.org/api/air-pollution)
-* EPA: [EPA Site for Facts!](https://www.epa.gov/clean-air-act-overview/air-pollution-current-and-future-challenges)
+* CDC: [CDC Link!](https://data.cdc.gov/NCHS/Monthly-Provisional-Counts-of-Deaths-by-Select-Cau/9dzk-mvmi/data) To gather respiratory deaths by state and year.
+* OpenWeather: [OpenWeather Link!](https://openweathermap.org/api/air-pollution) To gather Air Quality measurements and locations.
+* EPA: [EPA Site for Facts!](https://www.epa.gov/clean-air-act-overview/air-pollution-current-and-future-challenges) To gather information on respiratory diseases.
 
 ## Process
 <ul>
