@@ -1,0 +1,458 @@
+Year,State Name,aqi_index,level_counts
+2020,Alabama,Good,8307
+2020,Alabama,Moderate,177
+2020,Alabama,Unhealthy for Sensitive Groups,1
+2021,Alabama,Good,8187
+2021,Alabama,Moderate,253
+2021,Alabama,Unhealthy for Sensitive Groups,4
+2022,Alabama,Good,232
+2022,Alabama,Moderate,1
+2020,Alaska,Good,1559
+2020,Alaska,Moderate,1
+2021,Alaska,Good,1694
+2021,Alaska,Moderate,3
+2022,Alaska,Good,90
+2020,Arizona,Good,20464
+2020,Arizona,Moderate,3560
+2020,Arizona,Unhealthy,118
+2020,Arizona,Unhealthy for Sensitive Groups,396
+2020,Arizona,Very Unhealthy,73
+2021,Arizona,Good,19837
+2021,Arizona,Moderate,4398
+2021,Arizona,Unhealthy,81
+2021,Arizona,Unhealthy for Sensitive Groups,599
+2021,Arizona,Very Unhealthy,74
+2022,Arizona,Good,1396
+2022,Arizona,Moderate,44
+2022,Arizona,Unhealthy,10
+2022,Arizona,Unhealthy for Sensitive Groups,21
+2020,Arkansas,Good,4300
+2020,Arkansas,Moderate,60
+2020,Arkansas,Unhealthy for Sensitive Groups,3
+2021,Arkansas,Good,4200
+2021,Arkansas,Moderate,142
+2021,Arkansas,Unhealthy for Sensitive Groups,7
+2022,Arkansas,Good,817
+2022,Arkansas,Moderate,28
+2022,Arkansas,Unhealthy for Sensitive Groups,7
+2020,California,Good,115719
+2020,California,Moderate,8834
+2020,California,Unhealthy,642
+2020,California,Unhealthy for Sensitive Groups,2639
+2020,California,Very Unhealthy,110
+2021,California,Good,112682
+2021,California,Moderate,9502
+2021,California,Unhealthy,446
+2021,California,Unhealthy for Sensitive Groups,2177
+2021,California,Very Unhealthy,19
+2022,California,Good,8317
+2022,California,Moderate,88
+2020,Colorado,Good,19043
+2020,Colorado,Moderate,2346
+2020,Colorado,Unhealthy,13
+2020,Colorado,Unhealthy for Sensitive Groups,181
+2021,Colorado,Good,18886
+2021,Colorado,Moderate,3057
+2021,Colorado,Unhealthy,32
+2021,Colorado,Unhealthy for Sensitive Groups,485
+2022,Colorado,Good,5558
+2022,Colorado,Moderate,308
+2020,Connecticut,Good,6373
+2020,Connecticut,Moderate,292
+2020,Connecticut,Unhealthy,5
+2020,Connecticut,Unhealthy for Sensitive Groups,37
+2021,Connecticut,Good,6248
+2021,Connecticut,Moderate,281
+2021,Connecticut,Unhealthy,11
+2021,Connecticut,Unhealthy for Sensitive Groups,65
+2022,Connecticut,Good,56
+2020,Country Of Mexico,Good,125
+2020,Country Of Mexico,Moderate,20
+2020,Country Of Mexico,Unhealthy for Sensitive Groups,1
+2021,Country Of Mexico,Good,103
+2021,Country Of Mexico,Moderate,5
+2022,Country Of Mexico,Good,72
+2022,Country Of Mexico,Moderate,2
+2020,Delaware,Good,4747
+2020,Delaware,Moderate,101
+2020,Delaware,Unhealthy for Sensitive Groups,2
+2021,Delaware,Good,3338
+2021,Delaware,Moderate,169
+2021,Delaware,Unhealthy for Sensitive Groups,6
+2020,District of Columbia,Good,3884
+2020,District of Columbia,Moderate,38
+2021,District of Columbia,Good,3885
+2021,District of Columbia,Moderate,101
+2021,District of Columbia,Unhealthy for Sensitive Groups,9
+2020,Florida,Good,34047
+2020,Florida,Moderate,548
+2020,Florida,Unhealthy,1
+2020,Florida,Unhealthy for Sensitive Groups,5
+2021,Florida,Good,33591
+2021,Florida,Moderate,619
+2021,Florida,Unhealthy,1
+2021,Florida,Unhealthy for Sensitive Groups,5
+2022,Florida,Good,2573
+2022,Florida,Moderate,142
+2020,Georgia,Good,9143
+2020,Georgia,Moderate,133
+2020,Georgia,Unhealthy for Sensitive Groups,5
+2021,Georgia,Good,8487
+2021,Georgia,Moderate,390
+2021,Georgia,Unhealthy for Sensitive Groups,11
+2022,Georgia,Good,1863
+2022,Georgia,Moderate,77
+2020,Hawaii,Good,6810
+2020,Hawaii,Moderate,15
+2020,Hawaii,Unhealthy,25
+2020,Hawaii,Unhealthy for Sensitive Groups,13
+2021,Hawaii,Good,6529
+2021,Hawaii,Moderate,101
+2021,Hawaii,Unhealthy,18
+2021,Hawaii,Unhealthy for Sensitive Groups,69
+2022,Hawaii,Good,77
+2022,Hawaii,Moderate,6
+2022,Hawaii,Unhealthy,3
+2022,Hawaii,Unhealthy for Sensitive Groups,4
+2020,Idaho,Good,3440
+2020,Idaho,Moderate,136
+2020,Idaho,Unhealthy for Sensitive Groups,7
+2021,Idaho,Good,3288
+2021,Idaho,Moderate,280
+2021,Idaho,Unhealthy for Sensitive Groups,37
+2022,Idaho,Good,141
+2020,Illinois,Good,16529
+2020,Illinois,Moderate,879
+2020,Illinois,Unhealthy,9
+2020,Illinois,Unhealthy for Sensitive Groups,104
+2021,Illinois,Good,16674
+2021,Illinois,Moderate,1179
+2021,Illinois,Unhealthy,5
+2021,Illinois,Unhealthy for Sensitive Groups,74
+2022,Illinois,Good,3215
+2022,Illinois,Moderate,28
+2022,Illinois,Unhealthy for Sensitive Groups,2
+2020,Indiana,Good,20090
+2020,Indiana,Moderate,801
+2020,Indiana,Unhealthy,2
+2020,Indiana,Unhealthy for Sensitive Groups,51
+2021,Indiana,Good,19768
+2021,Indiana,Moderate,1038
+2021,Indiana,Unhealthy for Sensitive Groups,32
+2022,Indiana,Good,292
+2022,Indiana,Moderate,4
+2022,Indiana,Unhealthy for Sensitive Groups,2
+2020,Iowa,Good,9684
+2020,Iowa,Moderate,279
+2020,Iowa,Unhealthy for Sensitive Groups,1
+2021,Iowa,Good,9567
+2021,Iowa,Moderate,451
+2022,Iowa,Good,2874
+2022,Iowa,Moderate,9
+2022,Iowa,Unhealthy for Sensitive Groups,1
+2020,Kansas,Good,6704
+2020,Kansas,Moderate,120
+2020,Kansas,Unhealthy,1
+2020,Kansas,Unhealthy for Sensitive Groups,2
+2021,Kansas,Good,5816
+2021,Kansas,Moderate,239
+2021,Kansas,Unhealthy for Sensitive Groups,9
+2020,Kentucky,Good,15372
+2020,Kentucky,Moderate,360
+2020,Kentucky,Unhealthy for Sensitive Groups,12
+2021,Kentucky,Good,14839
+2021,Kentucky,Moderate,520
+2021,Kentucky,Unhealthy for Sensitive Groups,14
+2022,Kentucky,Good,502
+2022,Kentucky,Moderate,4
+2020,Louisiana,Good,15218
+2020,Louisiana,Moderate,351
+2020,Louisiana,Unhealthy for Sensitive Groups,19
+2021,Louisiana,Good,13856
+2021,Louisiana,Moderate,308
+2021,Louisiana,Unhealthy,4
+2021,Louisiana,Unhealthy for Sensitive Groups,15
+2022,Louisiana,Good,4419
+2022,Louisiana,Moderate,300
+2022,Louisiana,Unhealthy for Sensitive Groups,3
+2020,Maine,Good,6681
+2020,Maine,Moderate,74
+2020,Maine,Unhealthy for Sensitive Groups,1
+2021,Maine,Good,6387
+2021,Maine,Moderate,148
+2021,Maine,Unhealthy for Sensitive Groups,15
+2022,Maine,Good,1752
+2022,Maine,Moderate,11
+2020,Maryland,Good,10715
+2020,Maryland,Moderate,301
+2020,Maryland,Unhealthy for Sensitive Groups,6
+2021,Maryland,Good,10184
+2021,Maryland,Moderate,690
+2021,Maryland,Unhealthy for Sensitive Groups,48
+2022,Maryland,Good,2205
+2022,Maryland,Moderate,36
+2020,Massachusetts,Good,12519
+2020,Massachusetts,Moderate,134
+2020,Massachusetts,Unhealthy for Sensitive Groups,7
+2021,Massachusetts,Good,12724
+2021,Massachusetts,Moderate,268
+2021,Massachusetts,Unhealthy for Sensitive Groups,13
+2022,Massachusetts,Good,2172
+2022,Massachusetts,Moderate,10
+2020,Michigan,Good,19601
+2020,Michigan,Moderate,663
+2020,Michigan,Unhealthy,2
+2020,Michigan,Unhealthy for Sensitive Groups,99
+2021,Michigan,Good,16033
+2021,Michigan,Moderate,909
+2021,Michigan,Unhealthy for Sensitive Groups,62
+2022,Michigan,Good,174
+2020,Minnesota,Good,10759
+2020,Minnesota,Moderate,130
+2020,Minnesota,Unhealthy for Sensitive Groups,2
+2021,Minnesota,Good,10656
+2021,Minnesota,Moderate,361
+2021,Minnesota,Unhealthy for Sensitive Groups,5
+2022,Minnesota,Good,90
+2020,Mississippi,Good,4232
+2020,Mississippi,Moderate,77
+2020,Mississippi,Unhealthy for Sensitive Groups,1
+2021,Mississippi,Good,3988
+2021,Mississippi,Moderate,104
+2021,Mississippi,Unhealthy for Sensitive Groups,1
+2022,Mississippi,Good,723
+2022,Mississippi,Moderate,36
+2022,Mississippi,Unhealthy for Sensitive Groups,2
+2020,Missouri,Good,19913
+2020,Missouri,Moderate,852
+2020,Missouri,Unhealthy,81
+2020,Missouri,Unhealthy for Sensitive Groups,211
+2021,Missouri,Good,19536
+2021,Missouri,Moderate,1057
+2021,Missouri,Unhealthy,144
+2021,Missouri,Unhealthy for Sensitive Groups,180
+2022,Missouri,Good,3807
+2022,Missouri,Moderate,140
+2022,Missouri,Unhealthy,64
+2022,Missouri,Unhealthy for Sensitive Groups,35
+2020,Montana,Good,6721
+2020,Montana,Moderate,45
+2021,Montana,Good,6324
+2021,Montana,Moderate,253
+2021,Montana,Unhealthy for Sensitive Groups,10
+2022,Montana,Good,768
+2020,Nebraska,Good,3522
+2020,Nebraska,Moderate,60
+2021,Nebraska,Good,2497
+2021,Nebraska,Moderate,108
+2021,Nebraska,Unhealthy for Sensitive Groups,7
+2022,Nebraska,Good,524
+2022,Nebraska,Moderate,3
+2020,Nevada,Good,11145
+2020,Nevada,Moderate,1369
+2020,Nevada,Unhealthy for Sensitive Groups,126
+2021,Nevada,Good,11548
+2021,Nevada,Moderate,2186
+2021,Nevada,Unhealthy,9
+2021,Nevada,Unhealthy for Sensitive Groups,217
+2022,Nevada,Good,2368
+2022,Nevada,Moderate,13
+2020,New Hampshire,Good,6007
+2020,New Hampshire,Moderate,62
+2021,New Hampshire,Good,5613
+2021,New Hampshire,Moderate,150
+2021,New Hampshire,Unhealthy for Sensitive Groups,5
+2022,New Hampshire,Good,59
+2020,New Jersey,Good,13907
+2020,New Jersey,Moderate,276
+2020,New Jersey,Unhealthy for Sensitive Groups,8
+2021,New Jersey,Good,13805
+2021,New Jersey,Moderate,463
+2021,New Jersey,Unhealthy,1
+2021,New Jersey,Unhealthy for Sensitive Groups,32
+2022,New Jersey,Good,59
+2020,New Mexico,Good,11885
+2020,New Mexico,Moderate,1354
+2020,New Mexico,Unhealthy,1
+2020,New Mexico,Unhealthy for Sensitive Groups,62
+2021,New Mexico,Good,11495
+2021,New Mexico,Moderate,1615
+2021,New Mexico,Unhealthy,7
+2021,New Mexico,Unhealthy for Sensitive Groups,113
+2022,New Mexico,Good,979
+2022,New Mexico,Moderate,4
+2020,New York,Good,21427
+2020,New York,Moderate,525
+2020,New York,Unhealthy for Sensitive Groups,32
+2021,New York,Good,22010
+2021,New York,Moderate,712
+2021,New York,Unhealthy,1
+2021,New York,Unhealthy for Sensitive Groups,71
+2022,New York,Good,6614
+2022,New York,Moderate,74
+2022,New York,Unhealthy for Sensitive Groups,1
+2020,North Carolina,Good,17063
+2020,North Carolina,Moderate,277
+2021,North Carolina,Good,15727
+2021,North Carolina,Moderate,997
+2021,North Carolina,Unhealthy for Sensitive Groups,3
+2022,North Carolina,Good,1942
+2022,North Carolina,Moderate,24
+2020,North Dakota,Good,11442
+2020,North Dakota,Moderate,24
+2020,North Dakota,Unhealthy for Sensitive Groups,1
+2021,North Dakota,Good,10905
+2021,North Dakota,Moderate,245
+2021,North Dakota,Unhealthy for Sensitive Groups,7
+2022,North Dakota,Good,2506
+2020,Ohio,Good,28985
+2020,Ohio,Moderate,1219
+2020,Ohio,Unhealthy for Sensitive Groups,72
+2021,Ohio,Good,28891
+2021,Ohio,Moderate,1588
+2021,Ohio,Unhealthy for Sensitive Groups,43
+2022,Ohio,Good,5841
+2022,Ohio,Moderate,107
+2020,Oklahoma,Good,11965
+2020,Oklahoma,Moderate,372
+2020,Oklahoma,Unhealthy for Sensitive Groups,3
+2021,Oklahoma,Good,10789
+2021,Oklahoma,Moderate,767
+2021,Oklahoma,Unhealthy,1
+2021,Oklahoma,Unhealthy for Sensitive Groups,28
+2022,Oklahoma,Good,1784
+2022,Oklahoma,Moderate,110
+2022,Oklahoma,Unhealthy for Sensitive Groups,13
+2020,Oregon,Good,3974
+2020,Oregon,Moderate,54
+2020,Oregon,Unhealthy,5
+2020,Oregon,Unhealthy for Sensitive Groups,6
+2021,Oregon,Good,3602
+2021,Oregon,Moderate,132
+2021,Oregon,Unhealthy,1
+2021,Oregon,Unhealthy for Sensitive Groups,5
+2020,Pennsylvania,Good,35832
+2020,Pennsylvania,Moderate,770
+2020,Pennsylvania,Unhealthy for Sensitive Groups,26
+2021,Pennsylvania,Good,31121
+2021,Pennsylvania,Moderate,1285
+2021,Pennsylvania,Unhealthy,1
+2021,Pennsylvania,Unhealthy for Sensitive Groups,57
+2022,Pennsylvania,Good,1320
+2022,Pennsylvania,Moderate,21
+2022,Pennsylvania,Unhealthy for Sensitive Groups,1
+2020,Puerto Rico,Good,2835
+2020,Puerto Rico,Moderate,4
+2020,Puerto Rico,Unhealthy,1
+2020,Puerto Rico,Unhealthy for Sensitive Groups,3
+2021,Puerto Rico,Good,1628
+2021,Puerto Rico,Hazardous,1
+2021,Puerto Rico,Moderate,6
+2021,Puerto Rico,Unhealthy,1
+2021,Puerto Rico,Very Unhealthy,2
+2022,Puerto Rico,Good,529
+2022,Puerto Rico,Unhealthy for Sensitive Groups,1
+2022,Puerto Rico,Very Unhealthy,2
+2020,Rhode Island,Good,2782
+2020,Rhode Island,Moderate,66
+2020,Rhode Island,Unhealthy,1
+2020,Rhode Island,Unhealthy for Sensitive Groups,6
+2021,Rhode Island,Good,2902
+2021,Rhode Island,Moderate,87
+2021,Rhode Island,Unhealthy for Sensitive Groups,7
+2022,Rhode Island,Good,359
+2022,Rhode Island,Moderate,1
+2020,South Carolina,Good,8269
+2020,South Carolina,Moderate,72
+2020,South Carolina,Unhealthy for Sensitive Groups,1
+2021,South Carolina,Good,7617
+2021,South Carolina,Moderate,347
+2021,South Carolina,Unhealthy for Sensitive Groups,2
+2022,South Carolina,Good,1804
+2022,South Carolina,Moderate,31
+2020,South Dakota,Good,5539
+2020,South Dakota,Moderate,147
+2020,South Dakota,Unhealthy for Sensitive Groups,2
+2021,South Dakota,Good,4899
+2021,South Dakota,Moderate,227
+2021,South Dakota,Unhealthy for Sensitive Groups,12
+2020,Tennessee,Good,11282
+2020,Tennessee,Moderate,263
+2020,Tennessee,Unhealthy for Sensitive Groups,4
+2021,Tennessee,Good,10995
+2021,Tennessee,Moderate,599
+2021,Tennessee,Unhealthy for Sensitive Groups,15
+2022,Tennessee,Good,1077
+2022,Tennessee,Moderate,49
+2020,Texas,Good,57108
+2020,Texas,Moderate,2466
+2020,Texas,Unhealthy,11
+2020,Texas,Unhealthy for Sensitive Groups,246
+2021,Texas,Good,56917
+2021,Texas,Moderate,2621
+2021,Texas,Unhealthy,32
+2021,Texas,Unhealthy for Sensitive Groups,348
+2021,Texas,Very Unhealthy,1
+2022,Texas,Good,6270
+2022,Texas,Moderate,75
+2022,Texas,Unhealthy for Sensitive Groups,6
+2020,Utah,Good,19700
+2020,Utah,Moderate,1270
+2020,Utah,Unhealthy,3
+2020,Utah,Unhealthy for Sensitive Groups,79
+2021,Utah,Good,20520
+2021,Utah,Moderate,2330
+2021,Utah,Unhealthy,19
+2021,Utah,Unhealthy for Sensitive Groups,264
+2022,Utah,Good,7239
+2022,Utah,Moderate,116
+2022,Utah,Unhealthy for Sensitive Groups,1
+2020,Vermont,Good,3613
+2020,Vermont,Moderate,12
+2021,Vermont,Good,3580
+2021,Vermont,Moderate,32
+2020,Virginia,Good,16124
+2020,Virginia,Moderate,136
+2020,Virginia,Unhealthy,3
+2020,Virginia,Unhealthy for Sensitive Groups,7
+2021,Virginia,Good,16283
+2021,Virginia,Moderate,443
+2021,Virginia,Unhealthy for Sensitive Groups,21
+2022,Virginia,Good,3573
+2022,Virginia,Moderate,36
+2022,Virginia,Unhealthy for Sensitive Groups,2
+2020,Washington,Good,6024
+2020,Washington,Moderate,104
+2020,Washington,Unhealthy for Sensitive Groups,4
+2021,Washington,Good,6686
+2021,Washington,Moderate,152
+2021,Washington,Unhealthy,2
+2021,Washington,Unhealthy for Sensitive Groups,10
+2022,Washington,Good,523
+2020,West Virginia,Good,7421
+2020,West Virginia,Moderate,122
+2020,West Virginia,Unhealthy for Sensitive Groups,4
+2021,West Virginia,Good,6807
+2021,West Virginia,Moderate,216
+2021,West Virginia,Unhealthy for Sensitive Groups,5
+2022,West Virginia,Good,772
+2022,West Virginia,Moderate,8
+2020,Wisconsin,Good,10764
+2020,Wisconsin,Moderate,531
+2020,Wisconsin,Unhealthy,8
+2020,Wisconsin,Unhealthy for Sensitive Groups,83
+2021,Wisconsin,Good,10618
+2021,Wisconsin,Moderate,965
+2021,Wisconsin,Unhealthy for Sensitive Groups,65
+2022,Wisconsin,Good,519
+2022,Wisconsin,Moderate,3
+2022,Wisconsin,Unhealthy for Sensitive Groups,2
+2020,Wyoming,Good,21585
+2020,Wyoming,Moderate,735
+2020,Wyoming,Unhealthy for Sensitive Groups,39
+2021,Wyoming,Good,19046
+2021,Wyoming,Moderate,1607
+2021,Wyoming,Unhealthy,1
+2021,Wyoming,Unhealthy for Sensitive Groups,91
+2022,Wyoming,Good,1455
+2022,Wyoming,Moderate,1
