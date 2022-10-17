@@ -15,8 +15,8 @@ def home():
 @app.route('/Charts')
 def charts():return render_template('Charts.html')
 
-@app.route('/Heatmaps')
-def heatmap():return render_template('Heatmaps.html')
+#@app.route('/Heatmaps')
+#def heatmap():return render_template('Heatmaps.html')
 
 @app.route('/AQI_Deaths')
 def heatmap():return render_template('AQI_Deaths.html')
