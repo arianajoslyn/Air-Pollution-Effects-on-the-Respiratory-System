@@ -24981,6 +24981,15 @@ var data = [
     "AQI": 3,
     "Date Local": "6/1/21"
   }]
+
+  function createFeatures(jsonFeatures) {
+
+    // Define a function that we want to run once for each feature in the features array.
+    // Give each feature a popup that describes the place and time of the earthquake.
+    function onEachFeature(feature, layer) {
+      layer.bindPopup(`<h3>Location: ${feature.geometry.coordinates}</h3><hr><p>AQI: ${data[i].AQI}</p>`)
+    }
+  }
   var jsonFeatures = [];
                     
   data.forEach(function(point){
@@ -24995,8 +25004,10 @@ var data = [
               coordinates: [lon,lat],
           }
       };
+    
       jsonFeatures.push(feature);
   });
+
 
   
   var geoJson = { type: 'FeatureCollection', features: jsonFeatures };
@@ -25013,4 +25024,3 @@ var data = [
 map.attributionControl.setPrefix(
   'View <a href="https://github.com/HandsOnDataViz/leaflet-map-csv" target="_blank">code on GitHub</a>'
 );
-
